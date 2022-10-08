@@ -1,0 +1,60 @@
+.block-header h2 {
+    font-size: 20px;
+}
+
+.hashtag {
+    margin: auto;
+    display: block;
+}
+
+.hashtag ul {
+    font-size: 20px;
+    line-height: 0.5em;
+    font-weight: bolder;
+    color: #777777;
+}
+
+.fit-image {
+    max-width: 60%;
+    min-width: 250px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.hashtag .card {
+    background: #fff;
+    margin-bottom: 0;
+}
+
+.carousel-inner {
+    height: 80px;
+}
+
+.carousel-caption {
+    color: #000;
+    top: 50%;
+    padding: 15px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("../svg/previous-arrow.svg");
+}
+
+.carousel-control-next-icon {
+    background-image: url("../svg/next-arrow.svg");
+}
+
+.carousel-indicators .active {
+    background-color: #000;
+}
+
+.carousel-indicators li {
+    background-color: #eee;
+    height: 4px;
+    margin-top: 5px;
+}
+
+.carousel-caption h3{
+    margin: 0;
+}
