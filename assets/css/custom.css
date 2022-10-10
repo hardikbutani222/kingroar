@@ -55,6 +55,27 @@
     margin-top: 5px;
 }
 
-.carousel-caption h3{
+.carousel-caption h3 {
     margin: 0;
+}
+
+.footer-text {
+    color: #777777;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.text-heading {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.product_item .product_details {
+    padding-top: 54%;
+    text-align: center;
+}
+
+.product_image {
+    width: 275px;
+    height: 140px;
 }
