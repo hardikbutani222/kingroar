@@ -24,7 +24,7 @@
 
 .hashtag .card {
     background: #fff;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
 }
 
 .carousel-inner {
@@ -71,11 +71,15 @@
 }
 
 .product_item .product_details {
-    padding-top: 54%;
+    padding-top: 50%;
     text-align: center;
 }
 
 .product_image {
-    width: 275px;
+    width: 100%;
     height: 140px;
+}
+
+.product_item .cp_img {
+    top: 0;
 }
