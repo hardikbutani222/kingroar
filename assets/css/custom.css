@@ -71,8 +71,8 @@
 }
 
 .product_item .product_details {
-    padding-top: 50%;
     text-align: center;
+    height: 140px;
 }
 
 .product_image {
@@ -82,4 +82,8 @@
 
 .product_item .cp_img {
     top: 0;
+}
+
+.card {
+    border-radius: 10px;
 }
